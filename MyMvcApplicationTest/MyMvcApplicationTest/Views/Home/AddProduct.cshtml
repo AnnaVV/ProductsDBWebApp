@@ -1,0 +1,26 @@
+﻿@model MyMvcApplicationTest.Models.Product
+
+@{
+    ViewBag.Title = "AddProduct";
+}
+
+<h2>Add New Product</h2>
+
+<form role="form" method="POST">
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control", placeholder = "Enter product name here" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Price)
+        @Html.TextBoxFor(m => m.Price, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Count)
+        @Html.TextBoxFor(m => m.Count, new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+<br />
+@Html.ActionLink("Main page", "Index")
