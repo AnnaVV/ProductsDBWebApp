@@ -6,7 +6,7 @@
 
 <h2>Add New Producer</h2>
 
-<form role="form" method="POST">
+@*<form role="form" method="POST">
     <div class="form-group">
         @Html.LabelFor(m => m.Name)
         @Html.TextBoxFor(x => x.Name, new { @class = "form-control", placeholder = "Enter producer name here" })
@@ -19,4 +19,16 @@
     <button type="submit" class="btn btn-primary">Save</button>
 </form>
 <br />
-@Html.ActionLink("Main page", "Index")
+@Html.ActionLink("Main page", "Index")*@
+
+@using (Html.BeginForm("SaveProduct", "Home", FormMethod.Post))
+{
+    <div class="col-sm-5">
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control", placeholder = "Имя" })
+        @Html.DropDownListFor(x => x.LocationId, (List<SelectListItem>)ViewBag.Locations, new { @class = "form-control" })
+        <input type="submit" value="Save" class="btn btn-primary" style="margin-top:10px" />
+    </div>
+
+
+
+}

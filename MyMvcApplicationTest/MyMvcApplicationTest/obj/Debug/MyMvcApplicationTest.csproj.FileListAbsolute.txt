@@ -30,3 +30,35 @@ c:\users\1\documents\visual studio 2013\Projects\MyMvcApplicationTest\MyMvcAppli
 c:\users\1\documents\visual studio 2013\Projects\MyMvcApplicationTest\MyMvcApplicationTest\obj\Debug\MyMvcApplicationTest.csprojResolveAssemblyReference.cache
 c:\users\1\documents\visual studio 2013\Projects\MyMvcApplicationTest\MyMvcApplicationTest\obj\Debug\MyMvcApplicationTest.dll
 c:\users\1\documents\visual studio 2013\Projects\MyMvcApplicationTest\MyMvcApplicationTest\obj\Debug\MyMvcApplicationTest.pdb
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\MyMvcApplicationTest.dll.config
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\MyMvcApplicationTest.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\MyMvcApplicationTest.pdb
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\Antlr3.Runtime.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\EntityFramework.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\Newtonsoft.Json.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Net.Http.Formatting.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.Http.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.Http.WebHost.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.Mvc.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.Optimization.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.Providers.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.Razor.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.WebPages.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\WebGrease.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\EntityFramework.xml
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\Newtonsoft.Json.xml
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Net.Http.Formatting.xml
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.Http.xml
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.Http.WebHost.xml
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.Mvc.xml
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.Razor.xml
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.WebPages.xml
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\obj\Debug\MyMvcApplicationTest.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\obj\Debug\MyMvcApplicationTest.dll
+C:\Users\1\Documents\ASP.Net_MVC\ProductsDBWebApp\MyMvcApplicationTest\MyMvcApplicationTest\obj\Debug\MyMvcApplicationTest.pdb
